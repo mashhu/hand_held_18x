@@ -1,2 +1,2 @@
 # hand-held-16series
-for creating relases 16 series
+for creating relases 18 series
